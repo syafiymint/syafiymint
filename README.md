@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new things and chess!
 - 🌱 I’m currently learning data analytic course
 - 💞️ I’m looking to collaborate on data analytic community
-- 📫 How to reach me nabilahnursyafiqah@yahoo.com
+- 📫 How to reach me 22052592@siswa.um.edu.my
 
 <!---
 syafiymint/syafiymint is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
